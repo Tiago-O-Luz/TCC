@@ -1,2 +1,2 @@
-# TCC
-Documentação do meu TCC
+# Adaptação de Modelos de Linguagem Multimodal para Classificação de Nuvens
+Este trabalho visa realizar o fine-tuning de um Modelo de Linguagem Multimodal (MLLM) para a classificação de padrões de nuvens a partir de imagens. Utilizando um modelo base como o LLaVa, o objetivo é adaptar suas capacidades de análise visual e textual para identificar e classificar diferentes tipos de nuvens, aprimorando o desempenho do modelo em cenários reais. O processo envolverá a preparação de um dataset específico de imagens de nuvens, seguido pelo treinamento e avaliação do modelo, com foco na precisão e eficiência da classificação.
